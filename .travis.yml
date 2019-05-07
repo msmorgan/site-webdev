@@ -5,5 +5,6 @@ sudo: false
 script: ./tool/deploy.sh
 
 # Only run Travis jobs for named branches (to avoid double builds for each PR)
+# Note: change foobar to master when ready to publish
 branches:
-  only: [master, /^\d(\.x|-dev)$/, /travis-build/]
+  only: [foobar]
