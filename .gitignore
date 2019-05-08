@@ -8,7 +8,6 @@
 .jekyll-metadata
 
 # Deployment Files
-publish
 credentials.tar.gz
 client-secret.json
 tmp
