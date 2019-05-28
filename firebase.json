@@ -13,6 +13,7 @@
       { "source": "/api/angular_components/angular_components", "destination": "https://angulardart.dev/api/angular_components/angular_components/angular_components-library", "type": 301 },
       { "source": "/api/angular2", "destination": "https://angulardart.dev/api?package=angular", "type": 301 },
       { "source": "/api/angular2/**", "destination": "https://angulardart.dev/api", "type": 301 },
+      { "source": "/articles/performance/event-loop", "destination": "https://dart.dev/articles/archive/event-loop", "type": 301 },
       { "source": "/tutorials/get-data/fetch-data", "destination": "https://dart.dev/tutorials/web/fetch-data", "type": 301 },
       { "source": "/codelabs", "destination": "https://angulardart.dev/codelabs", "type": 301 },
       { "source": "/dart-2", "destination": "https://dart.dev/web/dart-2", "type": 301 },
